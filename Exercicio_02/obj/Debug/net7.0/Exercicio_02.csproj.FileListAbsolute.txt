@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\bin\Debug\net7.0\Exercicio_02.exe
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\bin\Debug\net7.0\Exercicio_02.deps.json
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\bin\Debug\net7.0\Exercicio_02.runtimeconfig.json
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\bin\Debug\net7.0\Exercicio_02.dll
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\bin\Debug\net7.0\Exercicio_02.pdb
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.dll
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\refint\Exercicio_02.dll
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.pdb
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\Exercicio_02.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documentos\GitHub\Pratica_CShar\Exercicio_02\obj\Debug\net7.0\ref\Exercicio_02.dll
